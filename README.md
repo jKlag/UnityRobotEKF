@@ -9,3 +9,5 @@ Unity 2018 is required to open this project (Download Unity [here](https://unity
 
 ##
 Copyright © 2018 Joshua Klag
+
+Adapted from a Matlab EKF Robot Simulator by Dr. Richard Alan Peters
